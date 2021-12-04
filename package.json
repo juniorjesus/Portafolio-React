@@ -1,7 +1,7 @@
 {
   "name": "junior-portafolio-react",
   "version": "0.1.0",
-  "homepage": "https://juniorjesus.github.io/Portafolio-React/",
+  "homepage": "https://juniorjesus.github.io/Portafolio-React",
   "private": true,
   "dependencies": {
     "@formspree/react": "^2.2.3",
