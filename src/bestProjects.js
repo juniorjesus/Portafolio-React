@@ -1,22 +1,22 @@
 const bestProjects = [
   {
-    title: "E-commerce",
+    title: "Amazonas",
     description:
-      "CaprichoStyle plataforma de E-commerce. Escoge el accesorio que quieras y disfruta de ellos. Cada producto es especial y te hara vibrar segundo a segundo.",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598736/Captura_de_pantalla_2021-12-04_011838_rzpqry.jpg",
-    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598526/E-commerce_Made_with_Clipchamp_ejjjxw.gif",
-    linkProject: "https://shiny-umbrella-33b54976.pages.github.io/index.html",
-    linkRepo: "https://github.com/academia-geek/aprendices-geek-entrenamiento-juniorjesus/tree/master/Modulo-3/Tarea-04",
+      "Amazonas es la empresa en internet de venta al por menor más grande del mundo, donde puedes encontrar prácticamente cualquier cosa que necesites pues es muy seguro que alguien la esté vendiendo",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060090/FreecodeCamp/Amazonas_rdb4ag.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643087904/V%C3%ADdeo_sin_t%C3%ADtulo_Hecho_con_Clipchamp_4_uv2mpb.gif",
+    linkProject: "https://amazonas-omega.vercel.app/",
+    linkRepo: "https://github.com/juniorjesus/Amazonas",
     id: "project-1",
   },
   {
-    title: "Dev It!",
+    title: "Block-Máster",
     description:
-      "Dev It es la  plataforma que te muestra las películas del momento. Puedes filtrar las categorias y registarte gratis.",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638600076/dev-it_epud1a.jpg",
-    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638600563/dev-it_Made_with_Clipchamp_aigucv.gif",
-    linkProject: "https://shiny-umbrella-33b54976.pages.github.io/Modulo-3/Tarea-02/index.html",
-    linkRepo: "https://github.com/academia-geek/aprendices-geek-entrenamiento-juniorjesus/tree/master/Modulo-3/Tarea-02",
+      "Revive una tienda icónica para rentar películas, regresa con una nueva plataforma de streaming :D",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060090/FreecodeCamp/Block-master_uz0vq6.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643063379/V%C3%ADdeo_sin_t%C3%ADtulo_Hecho_con_Clipchamp_3_eio730.gif",
+    linkProject: "https://block-master-chi.vercel.app/",
+    linkRepo: "https://github.com/juniorjesus/BlockMaster",
     id: "project-2",
   },
   {
@@ -29,6 +29,47 @@ const bestProjects = [
     linkRepo: "https://github.com/juniorjesus/PestApp",
     id: "project-3",
   },
+  
+  {
+    title: "Pokédex-App",
+    description:
+      "La Pokédex alberga una pequeña entrada sobre cada Pokémon, explicando algunos de sus rasgos. Cada entrada cuenta con la especie del Pokémon, su huella, su tipo o tipos elementales, su altura, su peso y finalmente su descripción Pokédex. ",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060090/FreecodeCamp/pok%C3%A9dex_xobkb9.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060949/FreecodeCamp/V%C3%ADdeo_sin_t%C3%ADtulo_Hecho_con_Clipchamp_r6nhqj.gif",
+    linkProject: "https://app-pokedex.vercel.app/",
+    linkRepo: "https://github.com/juniorjesus/App-Pokedex",
+    id: "project-4",
+  },
+  {
+    title: "E-commerce",
+    description:
+      "CaprichoStyle plataforma de E-commerce. Escoge el accesorio que quieras y disfruta de ellos. Cada producto es especial y te hara vibrar segundo a segundo.",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598736/Captura_de_pantalla_2021-12-04_011838_rzpqry.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598526/E-commerce_Made_with_Clipchamp_ejjjxw.gif",
+    linkProject: "https://shiny-umbrella-33b54976.pages.github.io/index.html",
+    linkRepo: "https://github.com/academia-geek/aprendices-geek-entrenamiento-juniorjesus/tree/master/Modulo-3/Tarea-04",
+    id: "project-5",
+  },
+  {
+    title: "Dev It!",
+    description:
+      "Dev It es la  plataforma que te muestra las películas del momento. Puedes filtrar las categorias y registarte gratis.",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638600076/dev-it_epud1a.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638600563/dev-it_Made_with_Clipchamp_aigucv.gif",
+    linkProject: "https://shiny-umbrella-33b54976.pages.github.io/Modulo-3/Tarea-02/index.html",
+    linkRepo: "https://github.com/academia-geek/aprendices-geek-entrenamiento-juniorjesus/tree/master/Modulo-3/Tarea-02",
+    id: "project-6",
+  },
+  {
+    title: "Frases Aleatorias",
+    description:
+      "Construccion de una máquina de frases aleatorias para el reto de FreecodeCamp implementando la libreria React js.",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060089/FreecodeCamp/Frases-aleatorias_ov00up.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638602141/PetApp_Made_with_Clipchamp_cti6k7.gif",
+    linkProject: "https://frases-aleatorias-rj67nzs2j-juniorjesus.vercel.app/",
+    linkRepo: "https://github.com/juniorjesus/Frases_Aleatorias",
+    id: "project-7",
+  },
   {
     title: "Perfil de GitHub",
     description:
@@ -37,7 +78,7 @@ const bestProjects = [
     gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638603018/Perfil-GitHub_Made_with_Clipchamp_qsqam4.gif",
     linkProject: "https://juniorjesus.github.io/Perfil-de-GitHub/",
     linkRepo: "https://github.com/juniorjesus/Perfil-de-GitHub",
-    id: "project-4",
+    id: "project-8",
   },
   {
     title: "Targetas Expansivas",
@@ -47,7 +88,7 @@ const bestProjects = [
     gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638603962/squirtle_Made_with_Clipchamp_mk7ylq.gif",
     linkProject: "https://juniorjesus.github.io/tarjetas-expansivas/cards.html",
     linkRepo: "https://github.com/juniorjesus/tarjetas-expansivas",
-    id: "project-5",
+    id: "project-9",
   },
   {
     title: "Friki Quiz",
@@ -58,7 +99,7 @@ const bestProjects = [
     linkProject:
       "https://quiz-app-react-router-hwk9u6j7x-juniorjesus.vercel.app/",
     linkRepo: "https://github.com/juniorjesus/Quiz-App-React-Router",
-    id: "project-6",
+    id: "project-10",
   },
 ];
 
