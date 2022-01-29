@@ -23,7 +23,7 @@ function Header() {
     <HeaderStyled>
       <div className="wrapper">
         <div className="header-logo">
-          <Link to="/junior-portfolio-react/">
+          <Link to="/Junior-portfolio-react/">
             <img src="https://res.cloudinary.com/djbaqvlnn/image/upload/v1638631178/bu_kbv5jk.png" alt="logo" width="50" height="50" />
           </Link>
         </div>

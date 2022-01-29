@@ -51,7 +51,7 @@ strong {
 }
 
 .hero-background {
-  background-image: url('https://res.cloudinary.com/djbaqvlnn/image/upload/v1638633922/86267046_1181416145400237_4920583588228890624_n_hlbekw.jpg');
+  background-image: url(https://res.cloudinary.com/djbaqvlnn/image/upload/v1638633922/86267046_1181416145400237_4920583588228890624_n_hlbekw.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

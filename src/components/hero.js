@@ -21,17 +21,17 @@ function Hero() {
                 <div className="hero-content">
                   
                   <div>
-                    <h1>¡Hola a todos! Soy Junior López</h1>
+                    <h1> ¡Hola a Todos! Soy Junior López</h1>
                     <strong>Frontend Developer </strong>
                   </div>
                   <p className="me-description">
-                    Developer que le encanta implementar diseños que inspiran y
+                  Developer que le encanta implementar diseños que inspiran y
                     atraen a las personas.
                   </p>
                   <Networds />
                   <a
-                    href="images/JuniorLópezCV.pdf"
-                    download="JuniorLópez-curriculum"
+                    href="images/junior-lopez-cv.pdf"
+                    download="Junior-López-curriculum"
                     className="curriculum"
                   >
                     <button>Descargar Curriculum</button>

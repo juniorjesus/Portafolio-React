@@ -13,15 +13,12 @@ export default function ProjectList() {
     >
       <div className="wrapper">
         <div>
-          <h2 className="project-list-title">Parece magia, funciona con código</h2>
-          <div>
-          <h3 className="project-list-subtitle">A lo largo de mi carrera como Frontend, he tenido el privilegio de trabajar en proyectos retadores e increíbles. </h3>
+          <h2 className="project-list-title">Proyectos</h2>
           {state === "project" ? (
             <BestProjects setState={setState} />
           ) : (
             <AllProjects setState={setState} />
           )}
-          </div>
         </div>
       </div>
     </section>

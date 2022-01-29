@@ -2,7 +2,7 @@ import React from "react";
 import "../css/contact.css";
 import { useForm } from "@formspree/react";
 export default function Contact() {
-  const [state, handleSubmit] = useForm("myyogqbv");
+  const [state, handleSubmit] = useForm("xeqvljyy");
   if (state.succeeded) {
     console.log("mensaje enviado correctamente , revisa tu email");
   }
@@ -11,7 +11,7 @@ export default function Contact() {
     <section className="contacto-container" aria-label="contact" id="contact">
       <form
         className="contacto-content"
-        action="https://formspree.io/f/myyogqbv"
+        action="https://formspree.io/f/xeqvljyy"
         method="POST"
         id="form"
         onSubmit={handleSubmit}
@@ -21,7 +21,7 @@ export default function Contact() {
           Si está interesado en trabajar conmigo en su próximo proyecto, no dude
           en ponerse en contacto.
         </p>
-        <input type="text" name="name" placeholder="Nombre completo" required />
+        <input type="text" name="name" placeholder="Nombre Completo" required />
         <input
           type="email"
           name="email"

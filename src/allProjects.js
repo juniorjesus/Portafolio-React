@@ -4,7 +4,7 @@ const allProjects = [
     title: "Amazonas",
     description:
       "Amazonas es la empresa en internet de venta al por menor más grande del mundo, donde puedes encontrar prácticamente cualquier cosa que necesites pues es muy seguro que alguien la esté vendiendo",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060090/FreecodeCamp/Amazonas_rdb4ag.jpg",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643489308/amazon_answw8.jpg",
     gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643087904/V%C3%ADdeo_sin_t%C3%ADtulo_Hecho_con_Clipchamp_4_uv2mpb.gif",
     linkProject: "https://amazonas-omega.vercel.app/",
     linkRepo: "https://github.com/juniorjesus/Amazonas",
@@ -14,7 +14,7 @@ const allProjects = [
     title: "Block-Máster",
     description:
       "Revive una tienda icónica para rentar películas, regresa con una nueva plataforma de streaming :D",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060090/FreecodeCamp/Block-master_uz0vq6.jpg",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643491120/Captura_de_pantalla_2022-01-29_161829_subnpo.jpg",
     gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643063379/V%C3%ADdeo_sin_t%C3%ADtulo_Hecho_con_Clipchamp_3_eio730.gif",
     linkProject: "https://block-master-chi.vercel.app/",
     linkRepo: "https://github.com/juniorjesus/BlockMaster",
@@ -24,7 +24,7 @@ const allProjects = [
     title: "Pest-App",
     description:
       "Crea una nueva historia Adoptar puede ser una de las experiencias más grandiosas de tu vida, donde compartirás bellos momentos con estos amiguitos fieles, tiernos y llenos de amor para regalar.",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638601214/pets-app_ob5zhr.jpg",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643490813/pest_ksp6ad.jpg",
     gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638602141/PetApp_Made_with_Clipchamp_cti6k7.gif",
     linkProject: "https://juniorjesus.github.io/PestApp/",
     linkRepo: "https://github.com/juniorjesus/PestApp",
@@ -35,7 +35,7 @@ const allProjects = [
     title: "Pokédex-App",
     description:
       "La Pokédex alberga una pequeña entrada sobre cada Pokémon, explicando algunos de sus rasgos. Cada entrada cuenta con la especie del Pokémon, su huella, su tipo o tipos elementales, su altura, su peso y finalmente su descripción Pokédex. ",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060090/FreecodeCamp/pok%C3%A9dex_xobkb9.jpg",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643489954/pokemon_v35psa.jpg",
     gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060949/FreecodeCamp/V%C3%ADdeo_sin_t%C3%ADtulo_Hecho_con_Clipchamp_r6nhqj.gif",
     linkProject: "https://app-pokedex.vercel.app/",
     linkRepo: "https://github.com/juniorjesus/App-Pokedex",
@@ -62,13 +62,13 @@ const allProjects = [
     id: "project-6",
   },
   {
-    title: "Frases Aleatorias",
+    title: "Dinter-Web",
     description:
       "Construccion de una máquina de frases aleatorias para el reto de FreecodeCamp implementando la libreria React js.",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643060089/FreecodeCamp/Frases-aleatorias_ov00up.jpg",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643490094/diinter_udcecc.jpg",
     gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638602141/PetApp_Made_with_Clipchamp_cti6k7.gif",
-    linkProject: "https://frases-aleatorias-rj67nzs2j-juniorjesus.vercel.app/",
-    linkRepo: "https://github.com/juniorjesus/Frases_Aleatorias",
+    linkProject: "https://dinterweb.netlify.app/",
+    linkRepo: "https://github.com/juniorjesus/DinterWeb",
     id: "project-7",
   },
   {
@@ -292,4 +292,3 @@ const allProjects = [
 ];
 
 export default allProjects; 
-

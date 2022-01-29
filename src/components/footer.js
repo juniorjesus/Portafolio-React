@@ -10,7 +10,7 @@ export default function Footeer() {
         <div className="footer-content">
           <div className="footer-logo">
             <img src="https://res.cloudinary.com/djbaqvlnn/image/upload/v1638631178/bu_kbv5jk.png" alt="logo" width="50" height="50" />
-            <p> Hecho con 💚 por Junior. Copyright 2021 - Todos los derechos reservados.</p>
+            <p>  Hecho con 💚 por Junior. Copyright 2022 - Todos los derechos reservados.</p>
           </div>
           <Networdks />
         </div>

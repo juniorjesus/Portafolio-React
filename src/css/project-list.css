@@ -13,38 +13,8 @@
 .project-list-title {
   font: 400 normal 32px/37px var(--fontTitle);
   border-bottom: 1px solid black;
-  height: 112px;
-width: 519px;
-left: 58px;
-top: 725px;
-border-radius: nullpx;
-
 }
-h3.project-list-subtitle{
-  height: 120px;
-  width: 495px;
-  left: 681px;
-  top: 1021px;
-  border-radius: nullpx;
-  position: absolute;
-  width: 495px;
-  height: 120px;
-  left: 681px;
-  top: 850px;
-  
-  /* /Body 1/Regular */
-  
-  font-family: Lora;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 40px;  
 
-
-/* background */
-
-color: #0F0E17;
-}
 .see-more {
   margin: auto;
   display: block;

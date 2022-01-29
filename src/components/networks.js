@@ -23,7 +23,7 @@ export default function Networdks() {
       </a>
       <a
         className="linkedin"
-        href="https://www.linkedin.com/in/jrjesus18-81197615b/"
+        href="https://www.linkedin.com/in/junior-jesus-lopez-gonzalez/"
         target="_blank"
       >
         <button>
