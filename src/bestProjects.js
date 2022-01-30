@@ -41,13 +41,13 @@ const bestProjects = [
     id: "project-4",
   },
   {
-    title: "E-commerce",
+    title: "League of Legends",
     description:
-      "CaprichoStyle plataforma de E-commerce. Escoge el accesorio que quieras y disfruta de ellos. Cada producto es especial y te hara vibrar segundo a segundo.",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598736/Captura_de_pantalla_2021-12-04_011838_rzpqry.jpg",
-    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598526/E-commerce_Made_with_Clipchamp_ejjjxw.gif",
-    linkProject: "https://shiny-umbrella-33b54976.pages.github.io/index.html",
-    linkRepo: "https://github.com/academia-geek/aprendices-geek-entrenamiento-juniorjesus/tree/master/Modulo-3/Tarea-04",
+      "League of Legends es un juego en equipos con más de 140 campeones para hacer jugadas épicas. Práctica de React usando el react Router Dom Basado en la Página original de  League Of Legends!",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643507962/Captura_de_pantalla_2022-01-29_205846_g8wtrq.jpg",
+    gif: "",
+    linkProject: "https://ligadeleyendas.netlify.app/#/",
+    linkRepo: "https://github.com/juniorjesus/League",
     id: "project-5",
   },
   {
@@ -71,13 +71,13 @@ const bestProjects = [
     id: "project-7",
   },
   {
-    title: "Perfil de GitHub",
+    title: "E-commerce",
     description:
-      "Esta es una sencilla aplicación desarrollada en JavaScript para buscar perfiles de GitHub que busca navegar e interactuar con los usuarios proviendole de información básica de su perfil. ",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638602660/perfil-GitHub_liir0t.jpg",
-    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638603018/Perfil-GitHub_Made_with_Clipchamp_qsqam4.gif",
-    linkProject: "https://juniorjesus.github.io/Perfil-de-GitHub/",
-    linkRepo: "https://github.com/juniorjesus/Perfil-de-GitHub",
+      "CaprichoStyle plataforma de E-commerce. Escoge el accesorio que quieras y disfruta de ellos. Cada producto es especial y te hara vibrar segundo a segundo.",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598736/Captura_de_pantalla_2021-12-04_011838_rzpqry.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638598526/E-commerce_Made_with_Clipchamp_ejjjxw.gif",
+    linkProject: "https://shiny-umbrella-33b54976.pages.github.io/index.html",
+    linkRepo: "https://github.com/academia-geek/aprendices-geek-entrenamiento-juniorjesus/tree/master/Modulo-3/Tarea-04",
     id: "project-8",
   },
   {
