@@ -82,13 +82,13 @@ const allProjects = [
     id: "project-8",
   },
   {
-    title: "Targetas Expansivas",
+    title: "Marvel-APP",
     description:
-      "He creado una lista en mi sitio. Esta lista es creada por un bucle foreach que se construye con información de mi arreglo de datos.Squirtle mi pokemón favorito y sus evoluciones. ",
-    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638603731/squirtle_v97nmh.jpg",
-    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638603962/squirtle_Made_with_Clipchamp_mk7ylq.gif",
-    linkProject: "https://juniorjesus.github.io/tarjetas-expansivas/cards.html",
-    linkRepo: "https://github.com/juniorjesus/tarjetas-expansivas",
+      "El propósito de esta aplicación es demostrar de manera sencilla el consumo de la API de Marvel teniendo personajes y cómics en los que participaron. ",
+    background: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643753057/marvelApp_b9gav8.jpg",
+    gif: "https://res.cloudinary.com/djbaqvlnn/image/upload/v1643753057/marvelApp_b9gav8.jpg",
+    linkProject: "https://react-marvel-app-pi.vercel.app/init",
+    linkRepo: "https://github.com/juniorjesus/React-Marvel-app",
     id: "project-9",
   },
   {
